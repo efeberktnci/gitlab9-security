@@ -1,2 +1,3 @@
 config.env 
 secret.env 
+AUTH_TOKEN=133y52u3463 
